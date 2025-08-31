@@ -17,7 +17,7 @@ import java.io.File
 
 
 object TelegramBotManager {
-    private const val BOT_TOKEN = "7978537511:AAF-5-JErEeNp806LAVfwtEg3Pt5WHbZrjU"
+    private const val BOT_TOKEN = ""
     private const val PREF_NAME = "TelegramPrefs"
     private const val LAST_UPDATE_ID = "last_update_id"
 
